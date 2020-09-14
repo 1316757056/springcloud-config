@@ -1,1 +1,4 @@
-info: local环境,version=6
+info: local环境,version=7
+server:
+  servlet:
+    context-path: /aa
